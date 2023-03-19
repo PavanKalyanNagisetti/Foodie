@@ -1,0 +1,96 @@
+.data{
+    margin-top: 40px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.data1 h2{
+    margin-right: 50px;
+    
+}
+.data1{
+    margin-left: 20px;
+}
+
+.block1{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+}
+.block1 h2{
+    margin-top: 50px;
+    margin-right: 60px;
+}
+.block2{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+}
+.block2 h2{
+    margin-top: 50px;
+    margin-right: 60px;
+}
+.block3{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+}
+.block3 h2{
+    margin-top: 50px;
+    margin-right: 60px;
+}
+.block4{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+}
+.block4 h2{
+    margin-top: 50px;
+    margin-right: 60px;
+}
+.img{
+    margin-top:0px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+.img1{
+    margin-top: 100px;
+}
+.person{
+    display: flex;
+}
+.watch{
+    padding-top: 50px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    
+    height: 600px;
+    width:400px;
+    background-color: rgb(76, 73, 73);
+    color: white;
+  
+}
+.watch p{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.watch h3{
+    color: rgb(204, 204, 204);
+}

@@ -1,0 +1,18 @@
+.footer1{
+    height: 300px;
+    background-color: rgb(245, 246, 246);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer1 h2{
+    margin-top: 40px;
+}
+.input input{
+    padding: 8px 15px;
+}
+.input button{
+    padding:8px;
+    color: white;
+    background-color: black;
+}

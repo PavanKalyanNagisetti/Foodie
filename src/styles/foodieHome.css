@@ -1,0 +1,120 @@
+.home{
+    margin: 0;
+}
+.banner{
+    display: flex;
+    margin-left: 100px;
+}
+.discription{
+    padding-left: 40px;
+    padding-top: 80px;
+    background-color: gold;
+    width: 365px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.discription p{
+    margin: 40px 0px;
+    font-size: large;
+    color: gray;
+}
+.discription button{
+    width: 160px;
+    height: 55px;
+    border: none;
+    color:white;
+    background-color: black;
+    font-size: large;
+}
+.discription button:hover{
+    color:white;
+    background-color: orangered;
+}
+.stories{
+    margin-top: 100px;
+    margin-left: 55px;
+    
+}
+.stories h2{
+    margin-left: 65px;
+}
+.div2{
+    display: flex;
+}
+.cards{
+    margin-left: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.bigpic{
+    margin-right: 75px;
+}
+.bigpic h1{
+    color: rgb(254, 251, 251);
+    transform: translateY(-200px) translateX(40px);
+}
+.bigpic button{
+    background-color: white;
+    color: black;
+    border: none;
+    width: 160px;
+    height: 50px;
+    font-size: large;
+    padding: 10px;
+    transform: translateX(400px) translateY(-105px);
+}
+.card1 button{
+    color: orangered;
+}
+.card2 button{
+    color: orangered;
+}
+.card3 button{
+    color: orangered;
+}
+.card4 button{
+    color: orangered;
+}
+.feauturedPosts{
+    margin-top: 100px;
+    margin-left: 55px;
+    
+}
+.feauturedPosts h2{
+    margin-left: 70px;
+}
+.div3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Cards{
+    margin-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Cards img:hover{
+    transform: translateY(-15px);
+}
+.Cards button{
+    width: 150px;
+    height: 45px;
+    border: none;
+    color:white;
+    background-color: black;
+    font-size: large;
+}
+.Card4{
+    background-color: gainsboro;
+}
+.Card4 img{
+    border-radius: 50%;
+}
+.Card2{
+    margin-left: 30px;
+}
+.Card3{
+    margin-left: 30px;
+}
